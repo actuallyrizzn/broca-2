@@ -190,6 +190,9 @@ class MyPlugin(Plugin):
 - [Plugin Development Guide](broca2/docs/plugin_development.md)
 - [CLI Tools Reference](broca2/docs/cli_reference.md)
 - [Configuration Guide](broca2/docs/configuration.md)
+- [Telegram Plugin](broca2/docs/telegram-plugin-spec.md)
+- [Telegram Bot Plugin](broca2/docs/telegram-bot-plugin.md)
+- [CLI-Test Plugin](broca2/docs/cli-test-plugin.md)
 
 ## 🤖 Agent/MCP-Ready Design
 
@@ -216,7 +219,7 @@ A new Management Control Panel server will be added to manage multiple Broca ins
 - Resource Management: Monitor shared resources and system health
 - Security: Centralized credential management and access control
 
-## �� Acknowledgments
+## 🤖 Acknowledgments
 
 - Original Broca project (It was me).
 - Contributors and maintainers (Also me).
